@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vindication of the vicar of Istleworth, in the county of Middlesex. From a scandalous pamphlet, contayning one and twenty articles; invented by some, closely; subscribed unto but by six, publiquely; presented but by one, openly; and now vented in print surreptitiously (in the name of the whole parish) by a no-body. Whereunto are likewise added certaine notorious impieties and misdeameanours of Gilbert Barrell attorney, the promoter: which shall be fairely and fully proved, upon just occasion. / By William Grant vicar of Istelworth aforesaid.</title>
+            <author>Grant, William, d. 1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85534</idno>
+            <idno type="STC">Wing G1525</idno>
+            <idno type="STC">Thomason E170_12</idno>
+            <idno type="STC">ESTC R9385</idno>
+            <idno type="EEBO-CITATION">99873538</idno>
+            <idno type="PROQUEST">99873538</idno>
+            <idno type="VID">157038</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157038)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E170[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vindication of the vicar of Istleworth, in the county of Middlesex. From a scandalous pamphlet, contayning one and twenty articles; invented by some, closely; subscribed unto but by six, publiquely; presented but by one, openly; and now vented in print surreptitiously (in the name of the whole parish) by a no-body. Whereunto are likewise added certaine notorious impieties and misdeameanours of Gilbert Barrell attorney, the promoter: which shall be fairely and fully proved, upon just occasion. / By William Grant vicar of Istelworth aforesaid.</title>
+                  <author>Grant, William, d. 1678.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barrell, Gilbert --  Early works to 1800.</term>
+               <term>Petition of the inhabitants of Istleworth ... against W. Grant --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157038:1"/>
+            <pb facs="tcp:157038:1" rendition="simple:additions"/>
+            <p>THE VINDICATION OF THE Vicar of Iſtleworth, in the County of Middleſex.</p>
+            <p>From a ſcandalous Pamphlet, contayning one and twenty Articles; invented by ſome, cloſely; ſub<g ref="char:EOLhyphen"/>ſcribed unto but by ſix, publiquely; preſented but by one, openly; and now vented in print ſur<g ref="char:EOLhyphen"/>reptitiouſly (in the name of the whole Pariſh) by a No-body.</p>
+            <p>Whereunto are likewiſe added certaine notorious Impi<g ref="char:EOLhyphen"/>eties and Miſdemeanours of <hi>Gilbert Barrell</hi> Attorney, the Promoter: which ſhall be fairely and fully proved, upon juſt occaſion.</p>
+            <p>By <hi>William Grant</hi> Vicar of <hi>Iſtleworth</hi> aforeſaid.</p>
+            <q>
+               <l>One Bow, ſix Strings, Shafts one and twenty ſhot,</l>
+               <l>Diſcover plaine a moſt malitious Plot:</l>
+               <l>Yet in this mallice, thus it doth befall,</l>
+               <l>Or ſhort, or wide, or over, they are all,</l>
+               <l>But only one, <note n="*" place="margin">article 11</note> 
+                  <hi>As good luck was,</hi> that hit him;</l>
+               <l>His uſe of Scripture-phraſe, will ſurely ſplit him.</l>
+            </q>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:157038:2"/>
+            <pb facs="tcp:157038:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y hope is, that innocency ſhall have thy free leave to ſpeake in a ſtill voice; when envy, and mallice, and uncharitableneſſe ſhall cry ſo lowd, and ſpare not: when it ſhall bee tould in <hi>Gath,</hi> and publiſhed in the ſtreets of <hi>Aſcalon,</hi> which was never ſo much as whiſpered in the bedchamber; or once ſo much as thought upon in the hidden cloſet of the heart. Lend alſo one glance to a modeſt Vindication, as thou haſt done, formerly, to a ſhameleſſe Calumniation; and ſuſpend thy cenſure, till the truth it ſelfe ſhall have time to breake forth through ſuch malignant clouds; and appeare in its owne native luſtre.</p>
+            <closer>
+               <signed>W. G.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:157038:3"/>
+            <head>THE PETITION.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Pariſh of <hi>Iſtleworth</hi> is very populous, and full of Gentry and Citizens, and hath for theſe for<g ref="char:EOLhyphen"/>tie yeares laſt paſt, had ſeverall Lecturers there maintained at their own charge: and of late, one Mr. <hi>William Iemmet,</hi> Chaplaine to the Right Honourable, the Earle of <hi>Northumberland,</hi> a lear<g ref="char:EOLhyphen"/>ned Divine, and of approved life, and converſation; who hath been for theſe fourteen years licenſed by the Chancellour for our Lecturer, and accepted for ſuch by Reverend Learned Doctors, Prebends of <hi>Windſor,</hi> ſucceſſively Vicars of <hi>Iſtleworth</hi> aforeſaid; untill of late<g ref="char:punc">▪</g> one Mr. <hi>William Grant,</hi> Chaplaine to the Biſhop of <hi>Glocester,</hi> by the procurement of the Archbiſhop of Canterbury, is become the Vicar there; who hath put out the ſaid Mr. <hi>Iemmet,</hi> and in his place, em<g ref="char:EOLhyphen"/>ployed one Mr. <hi>Bifeld,</hi> a man of a very ſcandalous life, to bee Lectu<g ref="char:EOLhyphen"/>rer there, untill the Pariſhoners were preferring a Petition to the Parliament againſt them both: the ſaid Mr. <hi>Grant</hi> being a man alſo erronious in opinion, ſcandalous in life, an exactour of undue fees, wholly unfit for that Sacred Function, as will appeare in the fol<g ref="char:EOLhyphen"/>lowing particulars, here humbly offered unto your grave conſi<g ref="char:EOLhyphen"/>deration.</p>
+            <div type="answer">
+               <head>The Anſwer.</head>
+               <p n="1">1 That the Pariſh is indeed very populous, having in it no leſſe than a thouſand communicants at the leaſt; and yet, of all theſe, there were but ſix hands againſt mee in the petition; to wit, <hi>Richard Dawnton, William Smith, Gilbert Barrell<g ref="char:punc">▪</g> George Ruſhly, Gera Strong, Iohn Vincent:</hi> and I think I may boldly ſay it, that there is never a Pariſh in the whole Kingdome again, where there are ſo many com<g ref="char:EOLhyphen"/>municants, but that there are ſix men in it, that doeſtand diſaffected to their Miniſter.</p>
+               <p n="2">
+                  <pb n="5" facs="tcp:157038:3"/>2 That it is alſo full of Gentry and Citizens; but, for Citizens, there is not ſo much as one hand againſt mee; and, for Gentry, for ought I know, there is but one, if one: two of them are Carpenters, a third, a Miller; a fourth, a Baker; a fift, an Attorney; the ſixt, whether a gentleman or no, I know not.</p>
+               <p n="3">3 That I am no Chaplaine to the Biſhop of <hi>Gloceſter,</hi> neither ever was; and, that the only motive, which induced him to conferre his right in this Vicaridge of <hi>Iſtleworth</hi> upon mee, was meerely his re<g ref="char:EOLhyphen"/>ſpects unto my Father, <hi>Iohn Grant,</hi> Doctor of Divinity, who had formerly been his Tutor in Trinity Colledge, in the Univerſity of <hi>Cambridge.</hi>
+               </p>
+               <p n="4">4 That all that the Archbiſhop of <hi>Canterbury</hi> did in it, was only in writing unto the Deane and Chapter of <hi>Windſor,</hi> that, if the right of preſentation were in the Biſhop of <hi>Gloceſter</hi> (as it was, by a Chapter Act) I might not be deprived of it; hee having under his hand, conferred it upon mee.</p>
+               <p n="5">5 That the Vicaridge, being a very poore thing of it ſelfe, I was ready, and willing for to ſupply the place wholly my ſelfe, that ſo I might adde to my meanes, and make them a competency: where<g ref="char:EOLhyphen"/>upon I gave Mr. <hi>Iemmet</hi> the Lecturer, a ſufficient time to provide himſelfe in; in which, hee did provide, and is now ſetled elſewhere, and that, in a better condition than he was before, as I ſhall bring very good proofe, from his owne mouth; withall declaring himſelfe to be well enough, if they would let him alone; and ſo, for his part, hee ſuffered no dammage by it.</p>
+               <p n="6">6 That I found Mr. <hi>Bifield</hi> Curate of the place, when I came un<g ref="char:EOLhyphen"/>to it; and all that I have done, is to retaine him ſo ſtill. Concerning the ſcandalouſneſs of his life, alleadged, as the Courts of Juſtice ſtand open for them againſt him; ſo, for my part, I am perſwaded, he is able of himſelfe, to anſwer for himſelfe.</p>
+               <p n="7">7 For the erroniouſneſs of my opinions, and ſcandalouſneſs of my life, and exaction of undue fees, I ſhall give anſwer to them, in their due place and time.</p>
+            </div>
+            <div n="1" type="article">
+               <head>Article. 1.</head>
+               <p n="1">1 THat Mr <hi>Grant</hi> hath, ever ſince the Faſt day in July laſt, put out the ſaid Mr. <hi>Iemmet</hi> from being Lecturer, though himſelf confeſſeth, that hee hath nothing againſt his life and converſation,
+<pb n="6" facs="tcp:157038:4"/>
+but that hee did it, that hee might root out the puritanes there; and notwithſtanding that the ſame Mr. <hi>Iemmet</hi> hath many ſmall chil<g ref="char:EOLhyphen"/>dren<g ref="char:punc">▪</g> moſt of them bred in the ſame pariſh.</p>
+            </div>
+            <div n="1" type="answer">
+               <head>Anſwer.</head>
+               <p>For the putting out of Mr. <hi>Iemmet,</hi> it is already anſwered: but that I ſhould uſe any ſuch phraſe, that I did it to root out the Puritans, it is as bould and as foule a calumny, as mallice it ſelfe could poſſi<g ref="char:EOLhyphen"/>bly have invented, or diſhoneſty broached. And, had they not both conſpired, and ſtrove together in it, of it ſelfe it had died in the Authors brain that forged it. Indeed, I was once upon occaſion, taxed with it openly, before Sir <hi>Edward Spencer,</hi> and Sir <hi>Francis Darcy,</hi> by one <hi>Gilbert Barrell</hi> Attorney; but, when I demanded of him at that ſame time, what witneſſe or proof hee had of it, he anſwered, that one Mr. <hi>Lyſter</hi> would avouch it; who no ſooner heard of it, but did utterly diſclaim it at ſeverall times, both unto me and others; and will be ready, at any time (as he hath often told me) to witneſſe the contrary to his face.</p>
+            </div>
+            <div n="2" type="article">
+               <head>Article 2.</head>
+               <p>2 That Mr. <hi>Grant</hi> did promiſe Mr. <hi>Barrell,</hi> being Church<g ref="char:EOLhyphen"/>warden (in the word of a Prieſt) that if the ſaid Mr. <hi>Barrell</hi> would promiſe to pay him tenne pounds a yeare (which accordingly was done) then the ſaid Mr. <hi>Iemmet</hi> ſhould be received againe to be Le<g ref="char:EOLhyphen"/>cturer, and added this execration; let this wine never paſſe thorow me (taking the glaſſe and drinking it off) if I make not good this promiſe: yet nevertheleſſe hee put him out, as aforeſaid, within ſix or eight weeks after that promiſe and execration.</p>
+            </div>
+            <div n="2" type="answer">
+               <head>Anſwer.</head>
+               <p>All this I utterly deny; and call God to record upon my ſoule, that hee may as well ſay, that I denied the Trinity; or that I blaſ<g ref="char:EOLhyphen"/>phemed the Holy Ghoſt: and ſhould account it one of the greateſt afflictions that ever befell mee, ſhould it have been ſaid by any but him, who is a man ſo generally known what hee is. But, as for him, hee openly profeſſed, before Sir <hi>Edward Spencer,</hi> and many more, upon occaſion, that hee was almoſt drunk at the ſame time; and ſo indeed, I know not what dreames he might have after<g ref="char:EOLhyphen"/>wards; for, it is an execration that I have heard himſelfe often uſing.</p>
+            </div>
+            <div n="3" type="article">
+               <pb n="7" facs="tcp:157038:4"/>
+               <head>Article. 3.</head>
+               <p>3 That Mr. <hi>Grant</hi> patteth holineſſe in places, and therefore threatned to preſent the ſaid Mr. <hi>Barrell,</hi> being Church-Warden, for comming once within the raile about the Communion Table, for to receive the money which was collected at the Sacrament; and to put it into the poores box, according to the Rubrick, ſaying; none muſt come there but the Prieſt, for that it was holy ground.</p>
+            </div>
+            <div n="3" type="answer">
+               <head>Anſwer.</head>
+               <p>That the ſaid Mr. <hi>Barrell,</hi> being Church-Warden, not comming himſelfe to the Communion, not having been ſo much as once a Communicant with us, for this twelve-moneth together, came run<g ref="char:EOLhyphen"/>ning into the Church, at the end of it; and, moſt uncivilly, ſnatcht away all the money that was given to the poore, as I was in telling it upon the Communion Table; and ſaid, that hee would diſpoſe of it himſelfe alone; and, that I ſhould not know ſo much as what there was; whereupon I ſaid, that I would preſent him for that his rude, and uncivill action, and intruſion, it having been alwayes the cuſtome of my predeceſſors in the place having told the money) to diſpoſe ſome part of it to ſuch poore people, as hee knew to be neceſ<g ref="char:EOLhyphen"/>ſitous; and to give the reſt to the Church-Wardens, to bee diſpoſed of as occaſion ſerved. But, that I ſhould ſay, that it was holy ground, and none ſhould come there but the Prieſt, is meerely an addition of his owne brain to aggravate the Article; and is as falſe as God is true.</p>
+            </div>
+            <div n="4" type="article">
+               <head>Article. 4.</head>
+               <p>That the ſaid Mr. <hi>Grant</hi> boweth to the Table when he goeth to it to ſay his ſecond Service; and at all other times, as often as he goeth by it, and alſo, when the word <hi>Jeſus</hi> is named, though his face be towards the Weſt (when his Curate names that word) yet hee then turnes to the Table, or to the Eaſt, and boweth himſelfe.</p>
+            </div>
+            <div n="4" type="answer">
+               <head>Anſwer.</head>
+               <p n="1">1 That there be many of the pariſh ſitting at the ſeats about the Communion Table; and ſome of them, at my comming in, riſing up, or moving themſelves<g ref="char:punc">▪</g> in their reſpects unto mee, happily I may have bowed or bended towards them (as in civility I could doe no leſſe) but to the Table I never did.</p>
+               <p n="2">
+                  <pb n="8" facs="tcp:157038:5"/>2 That, for my reading of the ſecond Service at the Communion Table, I never did it, but only on communion dayes, which wee are enjoyned by the Rubrick, eſtabliſhed by Act of Parliament.</p>
+               <p n="3">3 That it was no innovation of mine, but was uſed to bee read there before ever I came into the pariſh.</p>
+               <p n="4">4 That this Mr <hi>Barrell</hi> that now accuſeth mee for reading of it there, was the ſole occaſion that ever it was read there, complayning unto Doctor <hi>Duck</hi> of him, who was then Curate, as a Puritan, and non-conformiſt, for not reading of it there; Whereupon (whether by injunction, or no; I know not) it was read there.</p>
+               <p n="5">5 That when the word Ieſus is named, I doe bow my ſelfe, it is freely confeſſed, as it is alleadged; and ſo doth the promoter too, not only at the word Ieſus, but alſo of the Father too, or of the ho<g ref="char:EOLhyphen"/>ly Ghoſt, which I doe not. But that, though my face be towards the weſt, I ſhould immediately upon it, turne it towards the Eaſt, let any man but the promoter ſay it, and I will acknowledge what I never was guilty of.</p>
+            </div>
+            <div n="5" type="article">
+               <head>Article. 5.</head>
+               <p>That being deſired by the Church-Wardens to forbeare reading the ſecond Service at the Communion Table, hee anſwered, hee would not doe it to pleaſe the Puritans; and, that hee dares not doe otherwiſe; For, if it ſhould be tould the Archbiſhop, all the friends hee had ſhould not be able to perſwade the ſaid Archbiſhop, but that hee was afavourer of the Puritans.</p>
+            </div>
+            <div n="5" type="answer">
+               <head>Anſwer.</head>
+               <p>That I doe indeed remember a motion made by Mr. <hi>Barrell</hi> to this purpoſe, and it was in the preſence of one Mr. <hi>Lyſter,</hi> who can alſo teſtifie with mee, that my only anſwer was this, that, if it had not been uſed to be read there before, it ſhould never have been put in uſe by mee; but having been uſed there before, I would not meddle with the altering of it, without injunction, or permiſſion, which afterwards when once I had from Doctor <hi>Duck,</hi> in his viſi<g ref="char:EOLhyphen"/>tation, I preſently did.</p>
+            </div>
+            <div n="6" type="article">
+               <head>Article. 6</head>
+               <p>6 That hee hath affirmed, that the marrying of the Clergy, is the undoing of the Clergy.</p>
+            </div>
+            <div n="6" type="answer">
+               <pb n="9" facs="tcp:157038:5"/>
+               <head>Anſwer.</head>
+               <p>Not unlikely but I have; neither know I, as yet any reaſon, why I ſhould recant it: for, for my part, I know not (as yet) any thing that makes more to the undoing of Clergy men, or other; or, that will bring more miſery upon them, than the eſtate of wedlock raſh<g ref="char:EOLhyphen"/>ly runne into, before there be ſufficient meanes to ſupport it.</p>
+            </div>
+            <div n="7" type="article">
+               <head>Article. 7.</head>
+               <p>7 That hee hath ſaid, that it will never be well with the Church of England untill confeſſion bee ſet up in it.</p>
+            </div>
+            <div n="7" type="answer">
+               <head>Anſwer.</head>
+               <p>This Article I utterly deny.</p>
+            </div>
+            <div n="8" type="article">
+               <head>Article. 8.</head>
+               <p>That hee hath ſpoken againſt the Doctrines of Predeſtination.</p>
+            </div>
+            <div n="8" type="answer">
+               <head>Anſwer.</head>
+               <p>What I have ſpoken againſt them ſleeping, I am not able to ſay; but certaine I am, that waking, I never did: as for the Pulpit, I have learned better obedience to authority than to meddle in it with points forbidden; and, for other, table or winter fires diſcourſes, to my knowledge, I never ſpake ſo much as a ſyllable concerning them to any of my pariſh, but only once to one gentleman, who in<g ref="char:EOLhyphen"/>viting me to ſupper, in private diſcourſe after it, deſired my opinion in thoſe points: my anſwer was (as I well remember) that for my part, I thought it better a great deale for a man to employ his thoughts in the working out of his own ſalvation, than curiouſly to buſie them in Gods diſpoſall of others.</p>
+            </div>
+            <div n="9" type="article">
+               <head>Article. 9.</head>
+               <p>9 That he hath affirmed, that pictures are lay-mens books; and that it is lawfull to have them in Churches, and Chappells; and
+<pb n="10" facs="tcp:157038:6"/>
+hath deſired the Church-Warden to ſet up the picture of a Saint in the Chancell; and that hee carrieth to Church with him a teſtament full of crucifixes, and pictures.</p>
+            </div>
+            <div n="9" type="answer">
+               <head>Anſwer.</head>
+               <p n="1">1 That happily I might ſay in occaſionall diſcourſe (at the cour<g ref="char:EOLhyphen"/>teous table, and hoſpitable entertainment of <hi>Gilbert Barrell</hi> Attor<g ref="char:EOLhyphen"/>ney) that pictures are lay-mens books, as from the mouth of Gre<g ref="char:EOLhyphen"/>gory the great, whoſe ſpeech it was, I do not deny it; but, that I ſhould affirme it, as mine own opinion, I defie it.</p>
+               <p n="2">2 That I might alſo (at the ſame time and place) ſay ſome ſuch thing, as that, for mine own part, I was not ſcandalized, or offended at the ſight of them in Churches; But that I ſhould abſolutely af<g ref="char:EOLhyphen"/>firme the lawfulneſſe of them in reſpect of others, or ever ſpake un<g ref="char:EOLhyphen"/>to him for to ſet up the picture of a Saint in the chancell, I utterly deny, and abhorr it.</p>
+               <p n="3">3 That I doe carry to Church with mee a Teſtament full of pi<g ref="char:EOLhyphen"/>ctures I confeſſe it, but it was ſuch a one as was printed in Scotland; and I have carried it but ſometimes neither; only, when I have not been to preach my ſelfe; and that, never for the pictures ſake, but only in regard of the book of Common-Prayer, which is in it, having it in no book elſe beſide; this promoter himſelfe having long before my time (witneſſe the whole pariſh) moſt commonly and frequently brought the very ſame kind of book along with him to the ſame Church.</p>
+            </div>
+            <div n="10" type="article">
+               <head>Article. 10.</head>
+               <p>10 That hee hath affirmed, that hee had rather heare an organ (ten to one) in the Church, than ſinging of Pſalmes; which, ſcof<g ref="char:EOLhyphen"/>fingly, hee calls <hi>Hopkins</hi> his Jiggs; and commanded the Clarke, not to read them in the Church, ſo that the unlearned could not ſing: and further, threatned to preſent the Church-Warden, if hee would not preſent one, who on Sunday read the Pſalme to one that ſtood neere him.</p>
+            </div>
+            <div n="10" type="answer">
+               <head>Anſwer.</head>
+               <p>That I might alſo ſay in occaſionall diſcourſe, at the time and place
+<pb n="11" facs="tcp:157038:6"/>
+aforeſaid (for all's but table-talke, with one whoſe braine runnes upon wheels, and, at that time, ran upon nothing more, than ſuch like diſcourſes, ſome Prieſt, or Jeſuite having been the laſt company hee was in, whom hee is well known to have much and often converſe with) I ſay, that I might have alſo, at the ſame time and place, ſeemed to approve of, for my own particular, the uſe of Organs in the Church, and to diſapprove ſome particular expreſſions in Maſter Hopkins; the groſſe miſtakes that often ſlipt from an old dotard, in his reading them to the congregation, and the unbe<g ref="char:EOLhyphen"/>ſeeming noyſe that was made in the Church, when they were read by ſeverall men, in ſeverall corners, I doe not deny: But that I had rather heare an Organ, tenne to one, than ſinging of Pſalmes; that I ſhould call them <hi>Hopkins</hi> his Jiggs, command the clarke not to read them, that the unlearned might not ſing; and threaten to preſent the Church-Warden, if hee would not preſent one that read them, I alſo utterly deny and abhorre it.</p>
+            </div>
+            <div n="11" type="article">
+               <head>Article. 11.</head>
+               <p>11 That hee uſeth very unbecomming ſpeeches in his Sermons, as ſpeaking of ſome popiſh tenents, he ſaid, <hi>marry, as good luck is, wee have the Scripture againſt them;</hi> and, at another time, of the divells tentations, <hi>marry, as good luck was, God was ſtronger than the divell.</hi>
+               </p>
+            </div>
+            <div n="11" type="answer">
+               <head>Anſwer.</head>
+               <p>All the unbecomming ſpeeches I have uſed in my Sermons, ſo mouthed out againſt in the pamphlet, are only one phraſe twice uſed (the phraſe of, <hi>good luck is</hi>) which if I have (though never as is alleadged) for my preſident and example, I find it as often uſed in holy writ: <hi>Good luck have thou with thine honour,</hi> ſayes the Pſalmiſt; And againe, <hi>It fortuned</hi> (writes St. John) <hi>that there was a wedding in Cana of Galile; and Ieſus was at it:</hi> and if Mr. Pamphleter be ſuch a maſter of ſpeech as hee pretends to, he ſhould do well to tranſlate the Bible anew, that his eares may not be any more offended with the unbecomming expreſſions of the old Tranſlators of it.</p>
+            </div>
+            <div n="12" type="article">
+               <pb n="12" facs="tcp:157038:7"/>
+               <head>Article. 12.</head>
+               <p>12 That hee calleth the booke of Martyrs, a booke of lyes.</p>
+            </div>
+            <div n="12" type="answer">
+               <head>Anſwer.</head>
+               <p>That I am not of ſuch a judgement, neither ever was.</p>
+            </div>
+            <div n="13" type="article">
+               <head>Article. 13.</head>
+               <p>13 That he ſaid, that all good fellowſhip was laid aſide in the pariſh, but hee will bring it in againe, and maintaine it; and would have wine and tobacco for all that would come to his Vicaridge houſe on Sundayes after Prayers, and he doth make it good, har<g ref="char:EOLhyphen"/>bouring there at ſuch times, the deboiſt ſort tippling.</p>
+            </div>
+            <div n="13" type="answer">
+               <head>Anſwer.</head>
+               <p>That I ever ſaid ſuch words, I utterly deny and defie it. Indeed when I tooke poſſeſſion of the Church, thoſe gentlemen of the pariſh, who came along with mee in ſeeming curteſie to it, came al<g ref="char:EOLhyphen"/>ſo after along with me into the Vicaridge houſe; and, among other words (as I well remember) I told them, if they would be plea<g ref="char:EOLhyphen"/>ſed, to refreſh themſelves in it I ſhould take it kindly; and, it may be, I might uſe the phraſe, that a glaſſe of wine, or a pipe of tobacco ſhould be for them that pleaſed. But, why this ſpeech of mine, that was ſpo<g ref="char:EOLhyphen"/>ken to thoſe gentlemen (meerly in curteſie, upon my firſt acquain<g ref="char:EOLhyphen"/>tance with them, and out of an honeſt deſire, to hold and maintain brotherly love, and mutuall charity amongſt my neighbours) ſhould be ſo traduced, as that I deſired to make the ſame a tippling<g ref="char:EOLhyphen"/>houſe for the deboiſt ſort, let the reader judge; or how I could poſſibly bee ſo well verſed in the pariſh, where I had never in all my life time been before, or had ever ſo much as heard of the place till it was voyd; as to ſay, all good fellowſhip was laid aſide in it, I doe not deſire to bee mine own judge in it.</p>
+               <p>2 That I ſhould make it good, as they ſay, by harbouring there at ſuch times the deboiſt ſort tippling: it muſt needs be a ſecret aſ<g ref="char:EOLhyphen"/>perſion upon their betters, who have been there with mee at ſuch times in a civill way, and caſt a moſt foule and unrequitable im<g ref="char:EOLhyphen"/>putation upon my ſelfe, who was never yet found guilty in that kind, but doe challenge all the world to produce, and make good
+<pb n="13" facs="tcp:157038:7"/>
+the leaſt debauchedneſſe or tippling that was in it, ſince I came in<g ref="char:EOLhyphen"/>to the Place.</p>
+            </div>
+            <div n="14" type="article">
+               <head>Article. 14.</head>
+               <p>That he hath ſaid, that the Sabbath-day is no more than another day; and that Chriſtmas-day is an higher day than the Sabbath<g ref="char:EOLhyphen"/>day; and that it is a greater day than all the Sabbaths in the yeare: and he alſo maintaines the book of Sports.</p>
+            </div>
+            <div n="14" type="answer">
+               <head>Anſwer.</head>
+               <p>That which I ſaid, was at Sir <hi>Iohn Offlyes</hi> table, at dinner in Chriſtmas week laſt paſt; The occaſion was, upon the great com<g ref="char:EOLhyphen"/>mendation that one <hi>William Smith</hi> a Baker, gave of the Sermon that had bin preached in my Church on Chriſtmas-day; whereupon, for my owne part, I profeſſed much diſlike of it, for that he ſaid plainly in it, that it was ſuperſtition to obſerve that day: and ſo in proceſſe of words, further added, that it was as great and as high a day as the Sabbath-day; in reſpect of its meaning and ſignification; and my reaſon was, That the Sabbath-day was firſt inſtituted in me<g ref="char:EOLhyphen"/>mory of the Creation, but Chriſtmas-day in memory of our Re<g ref="char:EOLhyphen"/>demption.</p>
+            </div>
+            <div n="15" type="article">
+               <head>Article 15.</head>
+               <p>15 That he will not ſuffer any to pray for the ſick in the Pulpit; but uſeth the Prayer appointed for viſiting the ſick.</p>
+            </div>
+            <div n="15" type="answer">
+               <head>Anſwer.</head>
+               <p>That I have uſed the Prayer appointed for viſiting the ſick, and alſo wiſhed my Curate to do the like, I do not deny; but that I ſhould ever forbid, or not ſuffer the praying for them in the Pulpit, it is a moſt notorious untruth, having often (as is well known) not onely ſuffered it, but alſo practiſed it my ſelfe.</p>
+            </div>
+            <div n="16" type="article">
+               <head>Article 16.</head>
+               <p>16 That hee is an ordinary Gameſter at Cards, ſitting up untill two or three in the morning.</p>
+            </div>
+            <div n="16" type="answer">
+               <head>Anſwer.</head>
+               <p>That I have indeed played at Cards in my Pariſh, and in Chriſt<g ref="char:EOLhyphen"/>maſſe-time
+<pb n="14" facs="tcp:157038:8"/>
+often, and ſometimes, it may be, late; but yet, never neare ſo late as ſpoken of; and alwayes with thoſe that were of good faſhion and quality, where I was invited; And onely for honeſt, and civill recreation; never for lucre, or for any ſumme that's worth mentioning: And therefore, that I ſhould thereupon, be thus ſcan<g ref="char:EOLhyphen"/>dalouſly reported of as an ordinary Gameſter (having, as farre as I yet conceive, the ſame uſe of Chriſtian liberty, in a faire way, as others have) I leave it to the cenſure of the World.</p>
+            </div>
+            <div n="17" type="article">
+               <head>Article 17.</head>
+               <p>That when one, preaching there, reproved ſoule-murdering Mi<g ref="char:EOLhyphen"/>niſters, the ſaid Mr. <hi>Grant</hi> ſaid, that if hee had been as neare the Pulpit, as the Biſhop of <hi>Lincoln</hi> was to Doctor <hi>Heylin,</hi> hee would have pulled him out of the Pulpit.</p>
+            </div>
+            <div n="17" type="answer">
+               <head>Anſwer.</head>
+               <p>This Article is in part anſwered already. This Preacher, they ſpeak of, that reproved ſo ſtoutly ſoule-murdering Miniſters, was hee that preaching on Chriſtmaſſe-Day laſt paſt, ſaid in his ſermon, that it was ſuperſtition to obſerve that Day. Whereupon, I, being asked by a Gentleman that ſate in the Pew with me, why I would ſuffer ſuch a fellow to preach in my Pulpit, my anſwer to him, in his care, was this, how can I help it? but, if I were as neare unto him, as the Biſhop of <hi>Lincoln</hi> was to Doctor <hi>Heylin,</hi> I would alſo give a knock: And this was all to a ſyllable.</p>
+            </div>
+            <div n="18" type="article">
+               <head>Article 18.</head>
+               <p>18 That wee ſhall have no Lecturer, if wee will not take ſuch a man, as hee will put in; And that if wee will not be ſo conten<g ref="char:EOLhyphen"/>ted, we ſhall be contented with one Sermon in a month, that he will preach.</p>
+            </div>
+            <div n="18" type="answer">
+               <head>Anſwer.</head>
+               <p>This Article is utterly falſe: For I can bring very good witneſſe, of ſome of the beſt of the Pariſh, who will be ready to teſtifie with me, that I proffered, that if they would bring any man whatſoe<g ref="char:EOLhyphen"/>ver, that came recommended unto mee, under the hands of Doctor <hi>Holdſworth,</hi> Doctor <hi>Styles,</hi> and Doctor <hi>Gouge,</hi> he ſhould be wel<g ref="char:EOLhyphen"/>come;
+<pb n="15" facs="tcp:157038:8"/>
+and have the free-liberty of my Pulpit as Lecturer; And have alſo often ſaid it in open Veſtry to them all (which will alſo be teſtified, and cannot be denied) that let every man in the Pa<g ref="char:EOLhyphen"/>riſh that paid any thing towards a Lecturer, have his free voyce alſo in the choice, that ſo the major part of the whole Pariſh might carry it; And then, in the name of God, they might chuſe whom they pleaſed.</p>
+            </div>
+            <div n="19" type="article">
+               <head>Article 19.</head>
+               <p>19 That he takes away part of the Clarks wages, and gives it to a Boy that rubs his horſes heeles.</p>
+            </div>
+            <div n="19" type="answer">
+               <head>Anſwer.</head>
+               <p>That, when I came firſt to the Place, I found one <hi>Lawrence Rutter</hi> Officiating the Place of Pariſh Clark; but yet, not having any right at all unto it, or legall poſſeſſion of it, he offered mee (upon my comming) a ſumme of money, for to continue, and eſta<g ref="char:EOLhyphen"/>bliſh him in it; my anſwer was, that eſtabliſh him I would not; but, as long as he ſhould carry himſelfe as befitted, I would continue him in it; And for his money, bade him onely give a neighbours Boy, that looked to my horſe, five ſhillings a quarter, whiles I could provide my ſelfe of a man, he being himſelfe an old man, and not able to doe it for me; and that was all that I would require of him; which accordingly for two quarters, and no more, he did. Now, I was ſo farre from taking from his wages, that whereas he had formerly given eight pounds a yeere out of the Place, to the maintenance of a wife and children of the former Clark, by the im<g ref="char:EOLhyphen"/>poſition of ſome of theſe Promoters, who had been the meanes to bring him in, and to turn the other out, that I took it off to fifty ſhillings, and bade him onely give the woman twelve pence a week, and keep the reſt to himſelfe: So farre was I from diminiſhing the wages of the Place.</p>
+            </div>
+            <div n="20" type="article">
+               <head>Article 20.</head>
+               <p>20 That he exacts money for attendance upon Funerals, and other undue fees, foure or five times as much as have been within theſe ſeven yeeres; challenging, and taking by force, money which is due
+<pb n="16" facs="tcp:157038:9"/>
+to the Church-Wardens for the time being, for Burialls in the Church, and Church-Porch.</p>
+            </div>
+            <div n="20" type="answer">
+               <head>Anſwer.</head>
+               <p n="1">1 That, when I had waited at a Funerall, from two of the clock till ſix before they went to the Church with the Corpſe, I did indeed, put down in my Bill for Attendance in the generall; but, no ſumme at all concerning it in the particular; leaving it wholly to themſelves.</p>
+               <p n="2">2 For undue Fees, I never took any, or ever (at any time) more than was accuſtomed.</p>
+               <p n="3">3 For taking by force, money that was due to the Church-War<g ref="char:EOLhyphen"/>dens, for the Burialls in the Church, or Church-Porch, is a moſt abominable falſhood: Indeed, when a child, once, was buried in an Iſle at the upper end of the Chancell, I then conceived, and ſo do ſtill, that money for the ground belonged to mee; Whereup<g ref="char:EOLhyphen"/>on<g ref="char:punc">▪</g> I received the money for it into my own hands<g ref="char:punc">▪</g>, from the Clark who had it in his hands, and gave it preſently as ſhall be proved in<g ref="char:EOLhyphen"/>to the hands of one of the Church-Wardens, for to keep by it ſelfe<g ref="char:punc">▪</g> till the right did appeare.</p>
+            </div>
+            <div n="21" type="article">
+               <head>Article 21.</head>
+               <p>21 That he receiveth the money collected at the Sacrament, and ſaith that it is money offered; And therefore doth belong to him being Prieſt there.</p>
+            </div>
+            <div n="21" type="answer">
+               <head>Anſwer.</head>
+               <p>That, when ever I received it, which was ſeldome, this Promoter, for the moſt part comming into the Church on the ſudden, and ſnatching it away, I did immediately diſtribute every farthing of it amongſt the poore, And, as for my ſaying, that it was money of<g ref="char:EOLhyphen"/>fered; and that it did belong to the Miniſter, I meant it onely of his diſpoſall;<g ref="char:punc">▪</g> for, that was the Point in con<g ref="char:EOLhyphen"/>troverſie.</p>
+               <p>Thus,</p>
+               <l>The Bow is broke; Strings crackt; the Shafts all loſt:</l>
+               <l>Aſſaulting and inſulting mallice croſt.</l>
+            </div>
+         </div>
+         <div type="part">
+            <pb facs="tcp:157038:9"/>
+            <head>The aforeſaid notorious impieties, and miſdemeanours of <hi>Gilbert Barrell</hi> Attorney.</head>
+            <p n="1">1 THat the ſaid <hi>Gilbert Barrell,</hi> hath been ſeen comming out of the Queens Chappell, in time of Maſſe; and himſelfe hath reported, that he ſate there in a Romiſh Prieſts habit.</p>
+            <p n="2">2 That being asked, why he went to Maſſe, he anſwered, that therefore hee did it, becauſe he would not goe in a crowd, but turn Papiſt before hand.</p>
+            <p n="3">3 That hee ſeriouſly profeſſed, if hee were to begin the world againe, hee would bee a Jeſuite, rather than of any other pro<g ref="char:EOLhyphen"/>feſſion.</p>
+            <p n="4">4 That hee plainely affirmed, hee had rather heare a Romiſh Prieſt preach, than any one, or all the Miniſters of the Church of <hi>England:</hi> And that, if one ſhould heare one of them but once, hee would hardly heare any of thoſe of our Religion againe.</p>
+            <p n="5">5 That hee commonly brings Pamphlets to the Church, and reads them in time of Divine Service and Sermon: And, at one time he brought a Ballad, which having read himſelfe, hee gave to a Gentlewoman in the next Pew to read it alſo.</p>
+            <p n="6">6 That being overtaken in his way to <hi>London,</hi> by a Gentleman, who diſcourſing concerning the great diſtraction that was in the Common-wealth, by reaſon of delaying of juſtice upon thoſe two great men, the late Earle of <hi>Strafford,</hi> and the Archbiſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury:</hi> Delaying of juſtice? ſayes Maſter <hi>Barrell;</hi> I ſpeak really and upon my conſcience, they are abſolutely two of the moſt pious
+<pb n="18" facs="tcp:157038:10"/>
+and religious men, that are in the Kingdome of <hi>England.</hi>
+            </p>
+            <p n="7">7 That when the Railes about the Communion-Table, were riotouſly broken down by a Tumultuous Company of the ſaid Pariſh, it being in queſtion before the Juſtices at Brainford, he ſaid openly, before the ſame Juſtices, that it was his act and doing; that hee himſelfe did command it to be done, and would juſtifie the doing thereof.</p>
+            <p n="8">8 That being bound to the Peace, he ranne at my ſervant with a pitchfork, when he came only to make Tith-Hay upon his ground; and ſwore with many oathes, to be his death.</p>
+            <p n="9">9 That upon occaſion he ſaid (before very good witneſſe) there being ſpeech made of <hi>Davids</hi> murther and adultery; his murther and adultery ſayes Maſter <hi>Barrell,</hi> if hee had not committed mur<g ref="char:EOLhyphen"/>ther, it had been no matter for his adultery.</p>
+            <p n="10">10 That he often ſaid and avouched, that if ever he fall out with any man, hee will never bee reconciled; and if ever it lie in his power, he will do him the greateſt miſchiefe he can.</p>
+            <p n="11">11 That hee did moſt malitiouſly, and vexatiouſly (without a<g ref="char:EOLhyphen"/>ny juſt ground or cauſe) arreſt the foreſaid Vicar twice in the Terme laſt paſt, and threatneth to doe the ſame day by day, to the great interruption of him in his Miniſtry, who is Lecturer in the Colle<g ref="char:EOLhyphen"/>giate Church of Weſtminſter, to preach there twice a weeke in the Terme time; and was diſabled by ſuch vexatious ſuites to perform the ſame.</p>
+            <p n="12">12 That one <hi>Lawrence Rutter,</hi> in the Pariſh of <hi>Iſtleworth,</hi> having bin diſplaced by the whole pariſh from officiating the place of Pariſh-clarke for moſt notorious miſdemeanours, committed and confeſſed by him; the ſaid <hi>Gilbert Barrell</hi> notwithſtanding endeavoured to introduce him againe, by moſt unjuſt and indirect meanes, as namely by uſing the name of the Right Honourable the Earle of <hi>Northum<g ref="char:EOLhyphen"/>berland</hi> in open Court, without any order at all from him; who, upon notice thereof, diſclaimed it openly, and declared himſelfe diſ<g ref="char:EOLhyphen"/>pleaſed thereat; by meanes whereof the Judges, being falſely poſſeſſed by him that it was his Lordſhips pleaſure to have him reſtored, made a rule, that unleſſe <hi>William Grant</hi> ſhould referre his cauſe to the de<g ref="char:EOLhyphen"/>termination of the ſaid Earle, that writ ſhould iſſue forth to reſtore him, which accordingly did; and was recalled again by the aforeſaid Judges, upon information of his Lordſhips diſclaiming ſuch abuſe
+<pb n="19" facs="tcp:157038:10"/>
+of his name. And notwithſtanding, that the ſame <hi>Laurance Rutter</hi> was diſplaced by the whole pariſh, and another man cho<g ref="char:EOLhyphen"/>ſen by them, and ſworne and licenſed for the place by the Civill Law; neither could find any reliefe upon his motion at the Com<g ref="char:EOLhyphen"/>mon Law, but was alſo indited for his miſdemeanour at the ſeſſi<g ref="char:EOLhyphen"/>ons in <hi>Hicks</hi> his Hall; and there bound upon it unto his good be<g ref="char:EOLhyphen"/>haviour for a twelve-month; and after all this, was forbidden by the Iuſtices of Peace at their ſeſſions in <hi>Brainford</hi> by a warrant under their hands, not to make any diſturbance, in the Church by officiating, but to ſuffer <hi>Henry Bennet</hi> quietly to officiate there, untill ſuch time as hee was evicted by law, being ſworn and licenſed thereunto; notwithſtanding all this, I ſay, the ſaid <hi>Gilbert Barrell</hi> doth ſtill encourage, and command the aforeſaid <hi>Rutter,</hi> that was thus diſplaced; to officiate the place of pariſh<g ref="char:punc">▪</g> Clark, to the high affront and contempt of Iuſtice, and continuall diſturbance of the whole congregation.</p>
+            <p n="13">13 <hi>May</hi> 2<g ref="char:punc">▪</g> 1641. <hi>Gilbert Barrell</hi> Attorney, did openly and publickly diſturbe <hi>William Grant,</hi> Vicar of <hi>Iſtleworth,</hi> as hee was preaching in the pulpit to his congregation, by moſt uncivill words and actions, by laughing, and jearing in his face on the ſudden, and immediately after that reading of a pamphlet, and re<g ref="char:EOLhyphen"/>fuſing and denying openly to lay it aſide, or to ſit out of ſight, be<g ref="char:EOLhyphen"/>ing requeſted thereunto by the ſaid Vicar as hee was in preaching; inſomuch, that not being able to proceed in his Sermon (as he him<g ref="char:EOLhyphen"/>ſelfe then profeſſed) hee broke off in his Sermon twice, at the firſt time called for a Pſalme, and the ſecond time diſmiſſed us. Upon this miſdemeanour the ſaid <hi>Gilbert Barrell</hi> was indited at the ſeſſions in <hi>Hicks</hi> his Hall laſt paſt; and it was found <hi>Billa Vera</hi> againſt him by the Iury.</p>
+            <p n="14">14 Iuly 18. 1641. The ſaid <hi>Gilbert Barrell</hi> laid violent hands on one <hi>Henry Bennet,</hi> Pariſh-Clark of the foreſaid pariſh, to pluck him out of a pew, where hee was appointed by the Vicar to ſit for to officiate; and againe, getting within him, heaved and thruſt at him with like violence, in the time of Divine Service: who being admo<g ref="char:EOLhyphen"/>niſhed by the Curate beforehand, that he diſturbed the whole Con<g ref="char:EOLhyphen"/>gregation; do I ſaid he? I will diſturbe it more yet: And preſent<g ref="char:EOLhyphen"/>ly thereupon, fell upon the foreſaid diſturbance. Upon this miſde<g ref="char:EOLhyphen"/>meanor alſo, he was indited at the forenamed Seſſion, &amp; it was like<g ref="char:EOLhyphen"/>wiſe
+<pb n="20" facs="tcp:157038:11"/>
+found <hi>Billa vera</hi> againſt him by the foreſaid Jury.</p>
+            <p n="15">15 That the foreſaid <hi>Gilbert Barrell</hi> (for the ſpace of eleven or twelve weeks together, lately paſt) did moſt notoriouſly diſturbe the whole Congregation, almoſt every Lords day, in ſome ſcanda<g ref="char:EOLhyphen"/>lous way, or other; As namely, ſometimes by quarrelling and brawling with this and that man; ſometimes by laughing and jearing; and ſometimes clapping his hat on his head on the ſudden, and running out of the Church in a moſt uncivill manner, both in time of Service, and Sermon.</p>
+            <lg>
+               <l>One bow, one ſtring, and ſhafts, though not ſo many,</l>
+               <l>Be broke, or crackt, or ſnap't by him, or any.</l>
+            </lg>
+            <epigraph>
+               <q>Sic clavis ſimul &amp; pellitur, &amp; infigitur.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
